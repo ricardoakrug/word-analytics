@@ -1,0 +1,2 @@
+export const INSTAGRAM_MAX_LENGTH = 280;
+export const FACEBOOK_MAX_LENGTH = 2200;
